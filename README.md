@@ -1,4 +1,4 @@
-# How to use ngx-charts with angular ?
+# How to use ngx-charts in angular application ?
 
 This is a demo application created for using ngx-charts library in angular application to create various charts.
 
